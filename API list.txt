@@ -1,0 +1,10 @@
+API(newsdata.io)
+pub_38838e0c719cc50b3c91dab356601d6729383
+ https://newsdata.io/api/1/news?apiKey=${apiKey}&q=${query}
+
+API(newzapi.org)
+var apiKey = '4070611b539f42c5985c5cec34da1c02'; 
+var url = `https://newsapi.org/v2/everything?q=${query}&apiKey=${apiKey}`;
+
+API(newsapi.ai)
+02ac89c8b7cd477b82e4e05ebb0de140

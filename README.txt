@@ -9,3 +9,5 @@ If the API fails to fetch the data you will get a message in your terminal as,
     	at fil…///D:/BADLA/News%20Aggregator/script.js:58:19', message: 'Network response was not ok'}
 
 If need can be changed and u can add your API link and URL as per your wish in the scrip file("script.js")
+
+Watch the "Demo_Video" to get an idea about the project.
